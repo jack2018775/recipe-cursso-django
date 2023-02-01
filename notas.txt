@@ -1,2 +1,4 @@
-Fonts awsome link
-    https://cdnjs.com/libraries/font-awesome/6.2.1
+Adicionado font-awesome
+    Fonts awsome link
+        https://cdnjs.com/libraries/font-awesome/6.2.1
+        https://fontawesome.com/v6/icons
