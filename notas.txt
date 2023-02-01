@@ -1,2 +1,0 @@
-10. Criando, conhecendo e entendendo apps do Django
-    
