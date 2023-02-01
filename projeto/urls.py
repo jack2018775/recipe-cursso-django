@@ -18,9 +18,17 @@ from django.urls import path
 from django.http import HttpResponse
 
 def my_view(self):
-    return HttpResponse('Test de uma response http')
+    return HttpResponse('Home')
+
+def contato(self):
+    return HttpResponse('contato')
+
+def sobre(self):
+    return HttpResponse('sobre')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', my_view )
+    path('', my_view ), #Home
+    path('sobre/', sobre ), #/sobre/
+    path('contato/', contato ), #/contato/
 ]

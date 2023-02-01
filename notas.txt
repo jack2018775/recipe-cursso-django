@@ -1,11 +1,2 @@
-6. introdução às URLs do Django e Django Views
-
-    Os caminhos nas urls nunca começa com a /
-
-    Códigos de status de respostas HTTP
-
-        Respostas de informação (100-199),
-        Respostas de sucesso (200-299),
-        Redirecionamentos (300-399)
-        Erros do cliente (400-499)
-        Erros do servidor (500-599).
+10. Criando, conhecendo e entendendo apps do Django
+    
